@@ -1,12 +1,6 @@
-# <html>
-<head>
-<title>
-The title of the webpage
-</title>
-</head>
-<body>
-<h1>Xin Hui</h1>
-what are u trying to do.
-</body>
-</html>
+<div style="float: left">
+hii
+</div>
+<div style="float: right">
+This is where more information is located.
  
